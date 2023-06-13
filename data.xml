@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<mandelbrot_settings_2>
+    <image_size width='1600' height='900'/>
+    <limits>
+        <xmin>0.317738555110486123899</xmin>
+        <xmax>0.317740604974487908029</xmax>
+        <ymin>0.490960256962033959162</ymin>
+        <ymax>0.490961409847329230109</ymax>
+    </limits>
+    <palette colorType='RGB'>
+        <divisionPoint position='0' color='1;1;1'/>
+        <divisionPoint position='0.16' color='0;0.4;1'/>
+        <divisionPoint position='0.5' color='0.2;0.2;0.2'/>
+        <divisionPoint position='0.84' color='1;0;0.8'/>
+        <divisionPoint position='1' color='1;1;1'/>
+    </palette>
+    <palette_mapping length='250' offset='0'/>
+    <max_iterations value='1000'/>
+</mandelbrot_settings_2>
